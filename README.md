@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/hhDcJb6.png" width = 660></p>
+<p align="center"><img src="https://i.imgur.com/hhDcJb6.png" width = "620"></p>
 
 # Active Directory Project
 ## Overview
